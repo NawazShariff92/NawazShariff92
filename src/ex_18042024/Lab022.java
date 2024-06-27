@@ -1,3 +1,5 @@
+package ex_18042024;
+
 public class Lab022 {
     public static void main(String[] args) {
         int a=10;

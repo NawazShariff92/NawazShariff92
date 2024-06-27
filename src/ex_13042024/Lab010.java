@@ -1,3 +1,5 @@
+package ex_13042024;
+
 public class Lab010 {
     public static void main(String[] args) {
         //Logical operator NOT

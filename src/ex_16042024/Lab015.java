@@ -1,3 +1,5 @@
+package ex_16042024;
+
 public class Lab015 {
     public static void main(String[] args) {
         byte a=10;

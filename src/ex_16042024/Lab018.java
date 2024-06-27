@@ -1,3 +1,5 @@
+package ex_16042024;
+
 public class Lab018 {
     public static void main(String[] args) {
         float course =1000;

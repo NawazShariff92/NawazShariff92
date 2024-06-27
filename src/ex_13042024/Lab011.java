@@ -1,3 +1,5 @@
+package ex_13042024;
+
 public class Lab011 {
     public static void main(String[] args) {
         //logical OR
